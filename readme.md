@@ -194,6 +194,7 @@ This section includes code libraries in various programming languages which vend
 * [cdk8s](https://github.com/awslabs/cdk8s/) - Define Kubernetes native apps and abstractions using object-oriented programming.
 * [cdktf](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
 * [cdktg](https://github.com/hupe1980/cdk-threagile) - Agile Threat Modeling as Code.
+* [cloudsynth](https://github.com/cloudsynth/verify) - Verify CDK synth output against a declarative YAML contract in CI. Zero dependencies, no network access.
 
 ## Tips & Tricks
 
